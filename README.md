@@ -1,1 +1,1 @@
-# jqueryd
+# proyecto de HTML con jQuery
